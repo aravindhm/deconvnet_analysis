@@ -27,3 +27,11 @@ Note that step 9 assumes all the experiments for segmentation in ROOT/saliency/r
 
 ### Research code
 If anything doesn't work then please post the issue and I'll try to fix it. This is research code and comes with no WARRANTY or GUARANTY of any sort.
+
+### References
+1. Guillaumin, M., Küttel, D., Ferrari, V.: Imagenet auto-annotation with segmentation propagation. In: IJCV (2014)
+2. Noh, H., Hong, S., Han, B.: Learning deconvolution network for semantic segmentation. In: Proc. ICCV (2015)
+3. Simonyan, K., Vedaldi, A., Zisserman, A.: Deep inside convolutional networks: Visualising image classification models and saliency maps. In: ICLR (2014)
+4. Springenberg, J.T., Dosovitskiy, A., Brox, T., Riedmiller, M.: Striving for simplicity: The all convolutional net. In: ICLR Workshop (2015)
+5. Zeiler, M.D., Fergus, R.: Visualizing and understanding convolutional networks. In: Proc. ECCV (2014)
+6. V. Gulshan, C. Rother, A. Criminisi, A. Blake and A. Zisserman.: Geodesic star convexity for interactive image segmentation. In: Proc. CVPR (2010)
